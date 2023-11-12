@@ -1,0 +1,5 @@
+{"_id":{"$oid":"65500143607754133471fa60"},"Carro":"Onix","Cor":"Prata","Montadora":"Chevrolet"}
+{"_id":{"$oid":"65500143607754133471fa61"},"Carro":"Polo","Cor":"Branco","Montadora":"Volkswagen"}
+{"_id":{"$oid":"65500143607754133471fa62"},"Carro":"Sandero","Cor":"Prata","Montadora":"Renault"}
+{"_id":{"$oid":"65500143607754133471fa63"},"Carro":"Fiesta","Cor":"Vermelho","Montadora":"Ford"}
+{"_id":{"$oid":"65500143607754133471fa64"},"Carro":"City","Cor":"Preto","Montadora":"Honda"}
